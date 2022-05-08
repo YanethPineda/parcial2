@@ -1,0 +1,9 @@
+﻿  ConexionBD.cpp
+  Estudiante.cpp
+  mysql_parcialestud.cpp
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\Parcial2\mysql_parcialestud\mysql_parcialestud\mysql_parcialestud.cpp(45,5): warning C4138: '*/' se encontró fuera del comentario
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\Parcial2\mysql_parcialestud\mysql_parcialestud\mysql_parcialestud.cpp(45,6): error C2059: error de sintaxis: '/'
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\Parcial2\mysql_parcialestud\mysql_parcialestud\mysql_parcialestud.cpp(47,25): error C2065: 'consulta': identificador no declarado
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\Parcial2\mysql_parcialestud\mysql_parcialestud\mysql_parcialestud.cpp(61,1): error C2059: error de sintaxis: '}'
+C:\Users\cleim\OneDrive\Escritorio\Tercer Semestre\PROGRAMACION\Parcial2\mysql_parcialestud\mysql_parcialestud\mysql_parcialestud.cpp(61,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  Persona.cpp
